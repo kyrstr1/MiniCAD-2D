@@ -112,7 +112,6 @@ için geliştirilmiştir.
 
 **Mehmet Kayra Satır**
 
-- CNC & teknik çizim odaklı projeler
 - Web tabanlı mühendislik araçları geliştiriyor
 
 ---
