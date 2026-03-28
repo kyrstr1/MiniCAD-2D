@@ -108,6 +108,7 @@ için geliştirilmiştir.
 
 ---
 
+
 ## 👨‍💻 Geliştirici
 
 **Mehmet Kayra Satır**
